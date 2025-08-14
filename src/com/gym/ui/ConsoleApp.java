@@ -16,6 +16,8 @@ import java.math.BigDecimal;
 import java.util.*;
 import java.util.logging.Logger;
 
+
+
 public class ConsoleApp {
     private final Scanner in = new Scanner(System.in);
     private final Logger log = Log.get();
